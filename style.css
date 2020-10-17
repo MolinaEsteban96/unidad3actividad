@@ -1,0 +1,7 @@
+form{
+    text-align: center;
+}
+input#password{
+    position: relative;
+    left: 7px;
+}
